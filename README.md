@@ -14,7 +14,7 @@
 
 3. Install Python dependencies:
    ```
-   pip install tkinter Pillow pandas neattext scikit-learn
+  pip install -r requirements.txt
    ```
 
 ## Usage
