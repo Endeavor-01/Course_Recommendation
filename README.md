@@ -18,7 +18,6 @@
    ```
 
 ## Usage
-
 1. Run the application:
    ```bash
    python index.py
